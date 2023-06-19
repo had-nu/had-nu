@@ -20,3 +20,6 @@ Consider getting in touch.
   * 🍕 You can help me keep my studies just by buying me a pizza.
 
 [![Buy me a pizza!](https://pbs.twimg.com/media/FzAgVPpWcC8YDXI?format=png&name=small){width=25px}](https://www.buymeacoffee.com/Vykos)
+
+<a href="https://www.buymeacoffee.com/Vykos"><img src="[caminho/para/imagem.jpg](https://pbs.twimg.com/media/FzAgVPpWcC8YDXI?format=png&name=small)https://pbs.twimg.com/media/FzAgVPpWcC8YDXI?format=png&name=small" alt="Buy me a pizza!" width="25px"></a>
+
