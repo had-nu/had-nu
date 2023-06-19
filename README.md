@@ -19,6 +19,6 @@ Consider getting in touch.
   * 🌐 Know more about me: https://www.linkedin.com/in/andreataide/ 
   * 🍕 You can help me keep my studies just by buying me a pizza.
 
-<a href="https://www.buymeacoffee.com/Vykos">
-  <img src="https://pbs.twimg.com/media/FzAgVPpWcC8YDXI?format=png&name=small" width="35px"> Buy me a pizza!
-</a>
+    <a href="https://www.buymeacoffee.com/Vykos">
+      Buy me a pizza! <img src="https://pbs.twimg.com/media/FzAgVPpWcC8YDXI?format=png&name=small" width="35px">
+    </a>
