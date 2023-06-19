@@ -19,4 +19,4 @@ Consider getting in touch.
   * 🌐 Know more about me: https://www.linkedin.com/in/andreataide/ 
   * 🍕 You can help me keep my studies just by buying me a pizza.
 
-[![Buy me a pizza!](https://www.flaticon.com/free-icons/pizza)](https://www.buymeacoffee.com/Vykos)
+[![Buy me a pizza!](https://pbs.twimg.com/media/FzAgVPpWcC8YDXI?format=png&name=small)](https://www.buymeacoffee.com/Vykos)
