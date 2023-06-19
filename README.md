@@ -22,3 +22,6 @@ Consider getting in touch.
 [![Buy me a pizza!](https://pbs.twimg.com/media/FzAgVPpWcC8YDXI?format=png&name=small){width="25px"}](https://www.buymeacoffee.com/Vykos)
 
 
+<a href="https://www.buymeacoffee.com/Vykos">
+  <img src="https://pbs.twimg.com/media/FzAgVPpWcC8YDXI?format=png&name=small" alt="Buy me a pizza!" width="25px">
+</a>
