@@ -1,6 +1,6 @@
-# itsmeVykos
+# It's me, Vykos!
 
-## Hi there, thanks for visiting my profile!
+### Hi there, thanks for visiting my profile!
 
 Hi, my name is André Ataíde, but you can call me Vykos. 
 
