@@ -1,7 +1,6 @@
 # itsmeVykos
-a brief presentation
 
-Hi there, thanks for visiting my profile!
+## Hi there, thanks for visiting my profile!
 
 Hi, my name is André Ataíde, but you can call me Vykos. 
 
@@ -15,9 +14,9 @@ I am a curious and steadfast student, please be kind. 🙂
 
 Consider getting in touch.
 
-  💬 Ask me about anything in cyber security. Talking about helps both of us and I'll be super glad;;
-  📫 How to reach me: gustavo.leaomelo@gmail.com
-  🌐 Know more about me: https://www.linkedin.com/in/andreataide/ 
-  🍕 You can help me keep my studies just by buying me a pizza.
+  * 💬 Ask me about anything in cyber security. Talking about helps both of us and I'll be super glad;;
+  * 📫 How to reach me: gustavo.leaomelo@gmail.com
+  * 🌐 Know more about me: https://www.linkedin.com/in/andreataide/ 
+  * 🍕 You can help me keep my studies just by buying me a pizza.
 
 [![Buy me a pizza!](https://www.flaticon.com/free-icons/pizza)](https://www.buymeacoffee.com/Vykos)
