@@ -6,7 +6,7 @@ Hi, my name is André Ataíde, but you can call me Vykos.
 
 I am a Cyber Security student and passionate about OSINT, and I am also an enthusiast about open-source Self-Sovereign Identity solutions.
 
-Actually, I am committed to specializing in Identity and Access Control (IAM) and Identity Theft. Therefore, I am seeking a position as a Jr. SOC Analyst to begin my career. As a Blue Teamer, I want to be capable of strategizing, architecting, building and maturing cyber security initiatives. 
+Actually, I am committed to specializing in Identity and Access Management (IAM) and Identity Theft. Therefore, I am seeking a position as a Jr. SOC Analyst to begin my career. As a Blue Teamer, I want to be capable of strategizing, architecting, building and maturing cyber security initiatives. 
 
 In addition, I also hope to be an open-source maintainer soonly. I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through this community.
 
