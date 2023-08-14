@@ -2,9 +2,18 @@
 
 Hi, my name is André Ataíde, but you can call me Vykos. 
 
-I am a Cyber Security student and an enthusiast about open-source Self-Sovereign Identity solutions. Currently, I am committed to advancing my knowledge in IAM and its various aspects, including provisioning, authentication, and authorization. As part of my career development, I am seeking a position or internship that allows me to actively contribute to IAM initiatives, collaborate with IAM teams, and gain hands-on experience in implementing and managing IAM solutions. 
+I am a Master's student in Information Systems and I am a Researcher in Social Engineering and Phishing Awareness with a high level of authenticity for C-Level Executives. safety and combating risky behavior. Also, collaborate and gain practical experience in Vulnerability Analysis and Incident Response teams.
 
-In addition, I also hope to be an open-source maintainer soonly. I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through this community.
+I've learned a lot from the open-source community, and I love how collaboration and knowledge-sharing happen through that community. In this way, I hope to be an open-source maintainer soon.
+
+What are my ongoing projects:
+* Conducting research on spearphishing techniques during lateral movement;
+* Studying to obtain Tier 1 SOC Analyst certification;
+* Setting up a cloud-based cybersecurity HomeLab.
+
+Upcoming training and certifications:
+* Cisco Cyber Threat Management
+* CompTIA Sec+
 
 I am a curious and steadfast student, please be kind. 🙂
 
