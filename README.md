@@ -20,7 +20,7 @@ I am a curious and steadfast student, please be kind. 🙂
 Consider getting in touch.
 
   * 💬 Ask me about anything in cyber security. Talking about helps both of us and I'll be super glad;;
-  * 📫 How to reach me: gustavo.leaomelo@gmail.com
+  * 📫 How to reach me: andre_ataide@proton.me
   * 🌐 Know more about me: https://www.linkedin.com/in/andreataide/ 
   * 🍕 You can help me keep my studies just by buying me a pizza.
 
