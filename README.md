@@ -1,13 +1,12 @@
 ### Hi there, thanks for visiting my profile!
 
-Hi, my name is André Ataíde, but you can call me Vykos. 
+Hi, my name is André. Welcome!
 
-I am a Master's student in Information Systems and I am a Researcher in Social Engineering and Phishing Awareness with a high level of authenticity for C-Level Executives. safety and combating risky behavior. Also, collaborate and gain practical experience in Vulnerability Analysis and Incident Response teams.
+I am a Master's student in Information Systems and I am a Researcher in Social Engineering and Phishing Awareness with a high level of authenticity for C-Level Executives. I am currently researching solutions for mitigating phishing incidents within the context of Cybersecurity Awareness. I am seeking a position or internship that will enable me to actively contribute to initiatives such as security posture assessment and the mitigation of user risk behaviors, as well as collaborate with Incident Handling teams to gain practical experience.
 
 I've learned a lot from the open-source community, and I love how collaboration and knowledge-sharing happen through that community. In this way, I hope to be an open-source maintainer soon.
 
 What are my ongoing projects:
-* Conducting research on spearphishing techniques during lateral movement;
 * Studying to obtain Tier 1 SOC Analyst certification;
 * Setting up a cloud-based cybersecurity HomeLab.
 
