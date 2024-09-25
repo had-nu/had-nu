@@ -2,11 +2,7 @@
 
 Hi, my name is André. Welcome!
 
-Experienced professional in project management and digital transformation. Currently, I work as an Application Security Researcher and am developing my dissertation project, which aims to implement a strategy that integrates security practices throughout the software development life cycle (SDLC).
-
-My role is to support the continuous improvement of the security posture of companies within the Salvador Caetano Group by developing and implementing an application security program. I represent the AppSec team in the organization’s strategy, helping to develop secure architecture, standards, and documentation. The goal is to incorporate security into the SDLC as early as possible, shifting it left in the activity flow. This approach reduces the number of vulnerabilities introduced during development when it is still cheaper and simpler to address them.
-
-In addition to my focus on cybersecurity, I have a strong interest in anti-corruption initiatives, transparency, digital identity, and freedom of information. Outside of work, I enjoy photography and exploring topics related to Cyber Intelligence and Social Engineering.
+Experienced professional in Project Management and Digital Transformation with a growing focus on Application Security. Currently working as an Application Security Researcher, my research contributes to improving the security posture of companies within the Salvador Caetano Group. I collaborate with the InfoSec team and development leadership to establish the organization's first Application Security team. My work involves supporting the development of secure application architectures, creating standards based on ISO/IEC 27001, NIST, and OWASP, and producing comprehensive documentation. The goal is to integrate security best practices throughout the Software Development Life Cycle (SDLC), shifting security left to address vulnerabilities early in the development process, where they can be resolved more efficiently and cost-effectively.
 
 Here are the trainings and certifications I am currently pursuing:
 - Official ISC2 Online Training for Certified in Cybersecurity (CC)
