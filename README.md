@@ -2,9 +2,9 @@
 
 Hi, my name is André. Welcome!
 
-Experienced professional in Project Management and Digital Transformation with a growing focus on Application Security. Currently working as an Application Security Researcher, my research contributes to improving the security posture of companies within the Salvador Caetano Group. I collaborate with the InfoSec team and development leadership to establish the organization's first Application Security team. 
+Experienced Cybersecurity Architect with a growing focus on Application Security.
 
-My role involves supporting the development of secure application architectures, creating standards based on ISO/IEC 27001, NIST, and OWASP, and producing comprehensive documentation. The goal is to integrate security best practices throughout the Software Development Life Cycle (SDLC), shifting security left to address vulnerabilities early in the development process, where they can be resolved more efficiently and cost-effectively.
+Recently, I worked as an Application Security Architect as part of my master's research project, where I contributed to improving the security posture of companies within an automotive retail group. During this journey, I collaborated with the development leadership to establish the organization’s first Application Security Program, aligned with the ISO/IEC 27001 standard and mapped to frameworks such as NIST and OWASP. The objective was to integrate security best practices throughout the software development life cycle (SDLC), shifting security to the early stages of the development process, where vulnerabilities can be addressed more efficiently and cost-effectively.
 
 In addition to my focus on cybersecurity, I have a strong interest in anti-corruption initiatives, transparency, digital identity, and freedom of information. Outside of work, I enjoy photography and exploring topics related to Cyber Intelligence and Social Engineering.
 
