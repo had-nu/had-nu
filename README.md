@@ -9,14 +9,12 @@ Recently, I worked as an Application Security Architect as part of my master's r
 In addition to my focus on cybersecurity, I have a strong interest in anti-corruption initiatives, transparency, digital identity, and freedom of information. Outside of work, I enjoy photography and exploring topics related to Cyber Intelligence and Social Engineering.
 
 Here are the trainings and certifications I am currently pursuing:
-- Official ISC2 Online Training for Certified in Cybersecurity (CC)
+- ISC2 Certified in Cybersecurity (CC)
 - Cisco English for IT B2 / GSE 59-75 Certification
 - Cisco Cyber Threat Management Certificate
 
 For my next set of trainings and certifications, I plan to undertake:
-- ISC2 Certified in Cybersecurity (CC) - Mar/24
 - CompTIA Sec+
-- GIAC Cyber Threat Intelligence (GCTI)
 
 I hope this section provides a clearer view of my academic and professional activities and highlights my commitment to continuous learning and practical experience in cybersecurity. Feel free to send me a message.
 
