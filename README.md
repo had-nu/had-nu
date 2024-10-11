@@ -2,16 +2,16 @@
 
 Hi, my name is André. Welcome!
 
-Experienced Cybersecurity Architect with a growing focus on Application Security.
+Junior Cybersecurity Architect with a growing focus on Application Security.
 
-Recently, I worked as an Application Security Architect as part of my master's research project, where I contributed to improving the security posture of companies within an automotive retail group. During this journey, I collaborated with the development leadership to establish the organization’s first Application Security Program, aligned with the ISO/IEC 27001 standard and mapped to frameworks such as NIST and OWASP. The objective was to integrate security best practices throughout the software development life cycle (SDLC), shifting security to the early stages of the development process, where vulnerabilities can be addressed more efficiently and cost-effectively.
+Recently, I worked as an Application Security Researcher as part of my master's project, where I contributed to improving the security posture of companies within an automotive retail group. During this journey, I collaborated with the development leadership to establish the organization’s first Application Security Program, aligned with the ISO/IEC 27001 standard and mapped to frameworks such as NIST and OWASP. The objective was to integrate security best practices throughout the software development life cycle (SDLC), shifting security to the early stages of the development process, where vulnerabilities can be addressed more efficiently and cost-effectively.
 
 In addition to my focus on cybersecurity, I have a strong interest in anti-corruption initiatives, transparency, digital identity, and freedom of information. Outside of work, I enjoy photography and exploring topics related to Cyber Intelligence and Social Engineering.
 
-Here are the trainings and certifications I am currently pursuing:
-- ISC2 Certified in Cybersecurity (CC)
-- Cisco English for IT B2 / GSE 59-75 Certification
-- Cisco Cyber Threat Management Certificate
+Here are the trainings and certifications I am currently pursuing for my Cyber Security Architect career:
+> ISC2 Certified in Cybersecurity (CC)
+> SC-300: Microsoft: Identity and Access Administrator Associate;
+> CS-100 - Microsoft Cyber Security Architect.
 
 For my next set of trainings and certifications, I plan to undertake:
 - CompTIA Sec+
