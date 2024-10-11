@@ -9,9 +9,9 @@ Recently, I worked as an Application Security Researcher as part of my master's 
 In addition to my focus on cybersecurity, I have a strong interest in anti-corruption initiatives, transparency, digital identity, and freedom of information. Outside of work, I enjoy photography and exploring topics related to Cyber Intelligence and Social Engineering.
 
 Here are the trainings and certifications I am currently pursuing for my Cyber Security Architect career:
-> ISC2 Certified in Cybersecurity (CC)
-> SC-300: Microsoft: Identity and Access Administrator Associate;
-> CS-100 - Microsoft Cyber Security Architect.
+- ISC2 Certified in Cybersecurity (CC)
+- SC-300: Microsoft: Identity and Access Administrator Associate;
+- CS-100 - Microsoft Cyber Security Architect.
 
 For my next set of trainings and certifications, I plan to undertake:
 - CompTIA Sec+
