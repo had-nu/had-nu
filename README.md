@@ -1,14 +1,3 @@
-
-
-## GitHub Stats :bar_chart:
-
-![](https://github-readme-stats.vercel.app/api?username=had-nu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=had-nu&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=had-nu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=had-nu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 # about me
 `simila similibus curantur`
 
@@ -28,10 +17,9 @@ Service analysis: Penetration Testing | Threat Intelligence | Security Analysis
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACrFBMVEX/////pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjwAAAD/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjwAAAD/pjz/pjz/pjz/pjz/pjz/pjwAAAD/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjwAAAD/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjwAAAD/pjwAAAD/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjwAAAD/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjwAAAD/pjz/pjwAAAD/pjwAAAD/pjz/pjwAAAD/pjwAAAD/pjwAAAD/pjz/pjwAAAD/pjwAAAAAAAD/pjwAAAD/pjwAAAD/pjwAAAD/pjz/pjwAAAD/pjwAAAD/pjz/pjwAAAD/pjwAAAD/pjz/pjwAAAD/pjwAAAD/pjwAAAD/pjwAAAD/pjwAAAD/pjwAAAD/pjwAAAD/pjwAAAD/pjwAAAD/pjz/pjwAAAD/pjwAAAAAAAD/pjwAAAD/pjz/pjz/pjz/pjz/pjwAAAD/pjwAAAD/pjwAAAD/pjwAAAD/pjwAAAD/pjz/pjwAAAD/pjwAAAD/pjwAAAD/pjwAAAD/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjwAAAD/pjz/pjz/pjz/pjz/pjz/pjwAAAD/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjz/pjwAAAD/pjz/pjz/pjz/pjz/pjwAAAD/pjz/pjz/pjz/pjz/pjz/pjz/pjz///+f7N3DAAAA43RSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQHrz4AAAABYktHROFfCM+mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5QQQDyUuFmrn9wAAAEpJREFUCNdjYCAIGBmZmFlY2dg5GBi4uHl4+fgFBIWERUTFxCUkpaRlZOXkFRSVlFVU1dQ1NLW0dXT19A0MjYxNTM3MLSytCAoHLwAAjxgHvQhJGXIAAAAASUVORK5CYII=&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=green)
 
-## 🔍 gitHub intel
+## 🔍 github intel
 
-![](https://github-readme-stats.vercel.app/api?username=had-nu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF)
-
+![](https://github-readme-stats.vercel.app/api?username=had-nu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=had-nu&theme=radical&hide_border=false)
 
 <details>
