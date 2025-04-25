@@ -1,31 +1,28 @@
-### Hi there, thanks for visiting my profile!
+# About Me :sparkles:
 
-Hi, my name is André. Welcome!
+simila similibus curantur
 
-Junior Cybersecurity Architect with a growing focus on Application Security.
+## Socials :globe_with_meridians:
 
-Recently, I worked as an Application Security Researcher as part of my master's project, where I contributed to improving the security posture of companies within an automotive retail group. During this journey, I collaborated with the development leadership to establish the organization’s first Application Security Program, aligned with the ISO/IEC 27001 standard and mapped to frameworks such as NIST and OWASP. The objective was to integrate security best practices throughout the software development life cycle (SDLC), shifting security to the early stages of the development process, where vulnerabilities can be addressed more efficiently and cost-effectively.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadnu/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hadnu) 
+[![MyLinks](https://img.shields.io/badge/MyLinks-0078D4.svg?logo=internetexplorer&logoColor=white)](https://allmylinks.com/hadnu)
 
-In addition to my focus on cybersecurity, I have a strong interest in anti-corruption initiatives, transparency, digital identity, and freedom of information. Outside of work, I enjoy photography and exploring topics related to Cyber Intelligence and Social Engineering.
+## GitHub Stats :bar_chart:
 
-Here are the trainings and certifications I am currently pursuing for my Cyber Security Architect career:
-- ISC2 Certified in Cybersecurity (CC)
-- SC-300: Microsoft: Identity and Access Administrator Associate;
-- CS-100 - Microsoft Cyber Security Architect.
+![](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-For my next set of trainings and certifications, I plan to undertake:
-- CompTIA Sec+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=radical&hide_border=false)
 
-I hope this section provides a clearer view of my academic and professional activities and highlights my commitment to continuous learning and practical experience in cybersecurity. Feel free to send me a message.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I am a curious and steadfast student, please be kind. 🙂
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Consider getting in touch.
+---
+[![](https://visitcount.itsvg.in/api?id=SEU_USUARIO_GITHUB&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  * 💬 Ask me about anything in cyber security. Talking about helps both of us and I'll be super glad;;
-  * 📫 How to reach me: andre_ataide@proton.me
-  * 🌐 Know more about me: https://www.linkedin.com/in/andreataide/ 
-  * 🍕 You can help me keep my studies just by buying me a pizza.
+
 
     <a href="https://www.buymeacoffee.com/Vykos">
       <img src="https://pbs.twimg.com/media/FzAgVPpWcC8YDXI?format=png&name=small" width="25px"> Buy me a pizza!
