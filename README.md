@@ -22,4 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SEU_USUARIO_GITHUB&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Meu AllMyLinks](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://allmylinks.com/hadnu)
+[![All My Links](https://img.shields.io/badge/AllMyLinks-Follow%20Me-blue)](https://allmylinks.com/hadnu)
