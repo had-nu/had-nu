@@ -18,20 +18,20 @@
 ---
 ![Meu AllMyLinks](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://allmylinks.com/hadnu)
 
-# 🔐 Security Researcher
+# about me
 
-`Ad astra, per aspera`
+`*simila similibus curantur*`
 
-## 🌐 Connect
+## 🌐 connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO_LINKEDIN)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SEU_USUARIO_MEDIUM)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadnu/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hadnu)
 [![Links](https://img.shields.io/badge/-All_My_Links-4A154B?style=for-the-badge&logo=linktree&logoColor=white)](https://allmylinks.com/hadnu)
 
 ## 🛡️ Security Focus
 
 ```bash
-$ nmap -sC -sV --script vuln github.com/SEU_USUARIO_GITHUB
+$ nmap -sC -sV --script vuln github.com/had-nu
 
 Starting Nmap scan...
 Discovered open ports: Knowledge, Skills, Tools
