@@ -1,5 +1,5 @@
 # about me
-`simila similibus curantur`
+`se omni re scibili (et quibusdam aliis)`
 
 ## 🌐 connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadnu/)
