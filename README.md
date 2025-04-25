@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadnu/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hadnu) 
-[![MyLinks](https://img.shields.io/badge/MyLinks-0078D4.svg?logo=internetexplorer&logoColor=white)](https://allmylinks.com/hadnu)
+[![All My Links](https://img.shields.io/badge/AllMyLinks-Follow%20Me-blue)](https://allmylinks.com/hadnu)
 
 ## GitHub Stats :bar_chart:
 
@@ -22,4 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SEU_USUARIO_GITHUB&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![All My Links](https://img.shields.io/badge/AllMyLinks-Follow%20Me-blue)](https://allmylinks.com/hadnu)
+[![AllMyLinks Profile](https://allmylinks.com/profile/qr?id=6267718)(https://allmylinks.com/hadnu)
