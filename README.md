@@ -19,9 +19,8 @@ Service analysis: Penetration Testing | Threat Intelligence | Security Analysis
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=green)
 
 ## 🔍 github intel
-
-![](https://github-readme-stats.vercel.app/api?username=had-nu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=had-nu&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=had-nu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 <details>
   <summary>📊 Top Languages</summary>
