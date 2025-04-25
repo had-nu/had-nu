@@ -22,4 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SEU_USUARIO_GITHUB&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<iframe src="https://allmylinks.com/widget/profile/hadnu.html?dark=1&big=0" width="395" height="163.817" style="max-width:100%;display: block; margin: 0; border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+![Meu AllMyLinks](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://allmylinks.com/hadnu)
