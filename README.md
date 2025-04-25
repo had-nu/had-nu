@@ -55,7 +55,7 @@ Service analysis: Penetration Testing | Threat Intelligence | Security Analysis
 
 > _"Security is always excessive until it's not enough"_ - Robbie Sinclair
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=brightgreen&style=flat&label=Profile+Reconnaissance)
+![Profile Views](https://komarev.com/ghpvc/?username=had-nu&color=brightgreen&style=flat&label=Profile+Reconnaissance)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
