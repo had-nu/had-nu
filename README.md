@@ -1,4 +1,4 @@
-# About Me :sparkles:
+## About Me :sparkles:
 
 *simila similibus curantur*
 
@@ -11,12 +11,9 @@
 ## GitHub Stats :bar_chart:
 
 ![](https://github-readme-stats.vercel.app/api?username=had-nu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=had-nu&theme=radical&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=had-nu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=had-nu&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
 ![Meu AllMyLinks](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://allmylinks.com/hadnu)
