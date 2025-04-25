@@ -1,6 +1,6 @@
 # About Me :sparkles:
 
-simila similibus curantur
+*simila similibus curantur*
 
 ## Socials :globe_with_meridians:
 
@@ -10,11 +10,11 @@ simila similibus curantur
 
 ## GitHub Stats :bar_chart:
 
-![](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=had-nu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=had-nu&theme=radical&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=had-nu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -22,8 +22,4 @@ simila similibus curantur
 ---
 [![](https://visitcount.itsvg.in/api?id=SEU_USUARIO_GITHUB&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-    <a href="https://www.buymeacoffee.com/Vykos">
-      <img src="https://pbs.twimg.com/media/FzAgVPpWcC8YDXI?format=png&name=small" width="25px"> Buy me a pizza!
-    </a>
+<iframe src="https://allmylinks.com/widget/profile/hadnu.html?dark=1&big=0" width="395" height="163.817" style="max-width:100%;display: block; margin: 0; border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
