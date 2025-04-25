@@ -1,12 +1,4 @@
-## About Me :sparkles:
 
-*simila similibus curantur*
-
-## Socials :globe_with_meridians:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadnu/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hadnu) 
-[![All My Links](https://img.shields.io/badge/AllMyLinks-Follow%20Me-blue)](https://allmylinks.com/hadnu)
 
 ## GitHub Stats :bar_chart:
 
@@ -39,7 +31,8 @@ Service analysis: Penetration Testing | Threat Intelligence | Security Analysis
 ## 🔍 gitHub intel
 
 ![](https://github-readme-stats.vercel.app/api?username=had-nu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=had-nu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=had-nu&theme=radical&hide_border=false)
 
 <details>
   <summary>📊 Top Languages</summary>
