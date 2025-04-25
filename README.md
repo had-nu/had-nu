@@ -16,10 +16,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=had-nu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=SEU_USUARIO_GITHUB&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=had-nu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![AllMyLinks Profile](https://allmylinks.com/profile/qr?id=6267718)(https://allmylinks.com/hadnu)
+![Meu AllMyLinks](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://allmylinks.com/hadnu)
