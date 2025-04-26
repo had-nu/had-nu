@@ -8,7 +8,7 @@
 
 ## 🛡️ security focus
 ```bash
-Service analysis: Penetration Testing | Threat Intelligence | Security Analysis
+Service analysis: Threat Intelligence | Security Analysis
 ```
 
 ## ⚔️ arsenal
