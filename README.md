@@ -1,14 +1,14 @@
-# about me
+## about me
 `se omni re scibili (et quibusdam aliis)`
 
-## 🌐 connect
+### connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadnu/)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hadnu)
 [![Links](https://img.shields.io/badge/-All_My_Links-4A154B?style=for-the-badge&logo=linktree&logoColor=white)](https://allmylinks.com/hadnu)
 
-## 🛡️ security focus
+### security focus
 ```bash
-Service analysis: Threat Intelligence | Security Analysis
+Offensive Security | Threat Intelligence | Security Analysis
 ```
 
 ## ⚔️ arsenal
@@ -18,23 +18,16 @@ Service analysis: Threat Intelligence | Security Analysis
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=green)
 
-## 🔍 github intel
-![](https://github-readme-streak-stats.herokuapp.com/?user=had-nu&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=had-nu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
+### github intel
 <details>
-  <summary>📊 Top Languages</summary>
+  Top Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=had-nu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
 </details>
 
 <details>
-  <summary>💹 Activity Graph</summary>
+  Activity Graph
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=had-nu&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" />
 </details>
-
-## 💀
-
-> _"Security is always excessive until it's not enough"_ - Robbie Sinclair
 
 ![Profile Views](https://komarev.com/ghpvc/?username=had-nu&color=brightgreen&style=flat&label=Profile+Reconnaissance)
 
