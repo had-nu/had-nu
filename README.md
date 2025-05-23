@@ -19,10 +19,11 @@ Offensive Security | Threat Intelligence | Security Analysis
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=green)
 
 ## github intel
-  Top Languages
+### Top Languages
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=had-nu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
 
-  Activity Graph
+### Activity Graph
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=had-nu&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=had-nu&color=brightgreen&style=flat&label=Profile+Reconnaissance)
