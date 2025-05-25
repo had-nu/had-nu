@@ -27,9 +27,5 @@ Offensive Security | Threat Intelligence | Security Analysis
 
 ![Profile Views](https://komarev.com/ghpvc/?username=had-nu&color=brightgreen&style=flat&label=Profile+Reconnaissance)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 ---
 ![Meu AllMyLinks](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://allmylinks.com/hadnu)
