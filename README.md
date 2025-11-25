@@ -3,7 +3,7 @@
 
 ## connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadnu/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hadnu)
+[![Substack](https://img.shields.io/badge/-Substack-E06C00?style=for-the-badge&logo=substack&logoColor=white)](https://hadnu.substack.com)
 [![Links](https://img.shields.io/badge/-All_My_Links-4A154B?style=for-the-badge&logo=linktree&logoColor=white)](https://allmylinks.com/hadnu)
 
 
