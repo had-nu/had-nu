@@ -1,5 +1,4 @@
-*se omni re scibili (et quibusdam aliis)*
+*de omni re scibili (et quibusdam aliis)*
 
-CTI focused on software supply chain threats.
-Dependencies, CI/CD attack surfaces, and systemic risk analysis.
-Research-oriented, risk-driven, no hype.
+Risk-based release decisions, SDLC operationalization, and systemic exposure modeling.
+Research-oriented. Decision-structure over hype.
