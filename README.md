@@ -1,4 +1,5 @@
 *de omni re scibili (et quibusdam aliis)*
 
-Risk-based release decisions, SDLC operationalization, and systemic exposure modeling.
-Research-oriented. Decision-structure over hype.
+Security governance and risk-based release decisions across the SDLC.
+ISO 27001 control mapping · supply chain exposure · compliance tooling.
+Decision-structure over hype. Evidence over severity scores.
