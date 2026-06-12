@@ -2,9 +2,9 @@
 I help tech teams prepare regulatory evidence without slowing down delivery.
 
 👉 [Full Portfolio & Services](https://had-nu.github.io/hadnu.github.io/)
-![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://had-nu.github.io/hadnu.github.io/)
 
 -------------------------------------
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://had-nu.github.io/hadnu.github.io/)
 <!-- #### Tooling Notes
 
 <Not for Humans> This repository uses manual review workflows.
