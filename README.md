@@ -1,5 +1,8 @@
-Security governance and risk-based release decisions across the SDLC driven by threat intelligence.
-RGC control mapping | supply chain exposure | compliance tooling.
+# André Ataíde | Cyber Risk Analist
+I help tech teams prepare regulatory evidence without slowing down delivery.
+
+👉 [Full Portfolio & Services](https://had-nu.github.io/hadnu.github.io/)
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://had-nu.github.io/hadnu.github.io/)
 
 -------------------------------------
 <!-- #### Tooling Notes
