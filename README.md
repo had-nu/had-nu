@@ -1,4 +1,4 @@
-# André Ataíde | Cyber Risk Analist
+## Cyber Risk Analist
 I help tech teams prepare regulatory evidence without slowing down delivery.
 
 [Portfolio](https://had-nu.github.io/hadnu.github.io/)
