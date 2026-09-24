@@ -1,5 +1,5 @@
-## Cybersecurity Analyst
-I  bridge compliance and production reality. Integrating CTI, Vulnerability Management and GRC, I design risk-weighted, auditable release gates that turn implicit  choices into attributable, defensible records under NIS2, CRA and DORA.
+## Cyber Security Analyst
+Cyber Security Analyst specialising in vulnerability analysis and risk management across regulated environments. I work at the intersection of GRC, CTI, and engineering by validating that technical findings, threat intelligence, and control evidence align before they inform security decisions under NIS2, CRA, and DORA.
 
 [Portfolio](https://had-nu.github.io/)
 
